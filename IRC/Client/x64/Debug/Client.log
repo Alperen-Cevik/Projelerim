@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\alper\source\repos\IRC\Client\main.cpp(100,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" exited with code 1168.
+LINK : fatal error LNK1168: cannot open C:\Users\alper\source\repos\IRC\x64\Debug\Client.exe for writing
