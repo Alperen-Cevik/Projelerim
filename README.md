@@ -16,14 +16,7 @@ TicTacToe
 - Bu proje, C++ programlama dili kullanılarak bilgisayara karşı oynanan bir Tic Tac Toe oyunudur.
 
 Student Portal
-- Bu proje, öğrencilerin kaydolduğu kursları görüntüleyebileceği, notlarını kontrol edebileceği ve profesörlerin not verip, kurs alabildiği bir öğrenci portalı sunmaktadır. Öğrenci portalının bazı işlevleri aşağıda bulunmaktadır:
-
-1- Kursları Görüntüleme: Öğrenciler, mevcut kursların bir listesini görüntüleyebilir ve bu kurslardan istediklerine kaydolabilirler.
-
-2- Notları Kontrol Etme: Öğrenciler, kayıtlı oldukları kursların notlarını görüntüleyebilir ve takip edebilirler.
-
-3- Profesörler öğrencilere not verip istedikleri kursu alabilir veya oluşturabilirler.
+- Bu proje, C++ programlama dili kullanılarak yazılmıştır. Profesörler, öğrencilere not verebilir ve bu notlara dayanarak öğrencilerin kurs almasına izin verebilir veya yeni kurslar oluşturabilir. Öğrenciler, aldıkları notlara bağlı olarak kurslarını seçebilir ve kaydedebilirler. Bu öğrenci portalı, öğrencilerin akademik performanslarını izlemelerine ve profesörlerle etkileşime geçmelerine olanak tanır.
 
 Yelp Camp
-
-YelpCamp, kullanıcıların kamp alanlarını paylaşabildiği ve incelemeler yapabildiği bir kampçılık sosyal ağıdır. Bu proje, kamp severlerin kampları keşfetmesine, favori kamplarını kaydetmesine, incelemeler yazmasına ve diğer kullanıcılarla etkileşime geçmesine olanak tanır.
+- YelpCamp, kullanıcıların kamp alanlarını paylaşabildiği ve incelemeler yapabildiği bir kampçılık sosyal ağıdır. Bu proje, kamp severlerin kampları keşfetmesine, favori kamplarını kaydetmesine, incelemeler yazmasına ve diğer kullanıcılarla etkileşime geçmesine olanak tanır.
