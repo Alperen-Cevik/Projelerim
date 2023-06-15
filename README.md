@@ -10,7 +10,7 @@ Linear Equation
 - Bu proje, C programlama dili kullanılarak lineer denklemleri çözmeyi amaçlayan bir programdır. Lineer denklemler, bir veya daha fazla bilinmeyenin birinci dereceden denklemlerle ifade edildiği denklemlerdir. Bu program, kullanıcının verdiği lineer denklemin çözümünü bulur.
 
 Robot
-- Bu proje, C++ programlama dili kullanılarak robot savaşı simülasyonu gerçekleştirmeyi amaçlayan bir uygulamadır. Uygulamada, farklı türlerdeki robotlar arasında bir savaş senaryosu canlandırılır. Aşağıda Robot sınıfının tanımlandığı ve bu sınıftan türetilen diğer sınıfların belirtildiği bir taslak yer almaktadır.
+- Bu proje, C++ programlama dili kullanılarak robot savaşı simülasyonu gerçekleştirmeyi amaçlayan bir uygulamadır. Uygulamada, farklı türlerdeki robotlar arasında bir savaş senaryosu canlandırılır.
 
 TicTacToe
 - Bu proje, C++ programlama dili kullanılarak bilgisayara karşı oynanan bir Tic Tac Toe oyunudur.
