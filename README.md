@@ -19,4 +19,4 @@ Student Portal
 - Bu proje, C++ programlama dili kullanılarak yazılmıştır. Profesörler, öğrencilere not verebilir ve bu notlara dayanarak öğrencilerin kurs almasına izin verebilir veya yeni kurslar oluşturabilir. Öğrenciler, aldıkları notlara bağlı olarak kurslarını seçebilir ve kaydedebilirler. Bu öğrenci portalı, öğrencilerin akademik performanslarını izlemelerine ve profesörlerle etkileşime geçmelerine olanak tanır.
 
 Yelp Camp
-- YelpCamp, kullanıcıların kamp alanlarını paylaşabildiği ve incelemeler yapabildiği bir kampçılık sosyal ağıdır. Bu proje, kamp severlerin kampları keşfetmesine, favori kamplarını kaydetmesine, incelemeler yazmasına ve diğer kullanıcılarla etkileşime geçmesine olanak tanır.
+- Bu proje, Node.js, HTML, CSS, JS, MongoDB, Express gibi teknolojilerden yararlanılarak tasarlanmıştır. YelpCamp, kullanıcıların kamp alanlarını paylaşabildiği ve incelemeler yapabildiği bir kampçılık sosyal ağıdır. Bu proje, kamp severlerin kampları keşfetmesine, favori kamplarını kaydetmesine, incelemeler yazmasına ve diğer kullanıcılarla etkileşime geçmesine olanak tanır.
